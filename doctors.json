@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Areeb Akhtar",
+        "specialization": "MBBS",
+        "phone": "82*****"
+    },
+    {
+        "id": 2,
+        "name": "Areeb Akhtar",
+        "specialization": "MBBS",
+        "phone": "82"
+    },
+    {
+        "id": 3,
+        "name": "TANU",
+        "specialization": "MBBS , MD",
+        "phone": "5566223311"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "RAHUL",
+        "age": 20,
+        "gender": "Male",
+        "disease": "FEVER",
+        "phone": "0000"
+    },
+    {
+        "id": 2,
+        "name": "RAGINI YADAV",
+        "age": 30,
+        "gender": "Female",
+        "disease": "COLD",
+        "phone": "9996663332"
+    }
+]
