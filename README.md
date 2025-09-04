@@ -1,0 +1,2 @@
+# Hospital-Management-System
+The Hospital Management System (GUI) is a Python application built using Tkinter that helps manage hospital records in a simple way. It allows you to add, view, update, and remove patients and doctors, as well as book and view appointments. All the data is stored in JSON files, making it lightweight and easy to use. With a dark blue theme and dropdown-based gender selection, the interface is user-friendly and looks professional.
